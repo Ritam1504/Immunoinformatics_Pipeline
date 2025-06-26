@@ -41,7 +41,7 @@ Structural Organization: Consists of S1 (receptor binding) and S2 (membrane fusi
 
 Antigenic and Immunological Properties
 
-High Immunogenicity: Contains multiple B-cell and T-cell epitopes that elicit robust immune responses, evaluated with a threshold of 0.4 for antigenicity.
+High Immunogenicity: Contains multiple B-cell and T-cell epitopes that elicit robust immune responses, evaluated with a threshold of 0.4683 for antigenicity.
 Proven Vaccine Target: Current COVID-19 vaccines target the spike protein (P0DTC2), demonstrating its effectiveness.
 Conserved Epitopes: Contains conserved regions valuable for broad-spectrum vaccine design.
 Structural Flexibility: Exhibits conformational flexibility, enhancing epitope presentation.
@@ -77,7 +77,7 @@ Detailed documentation, including methodology descriptions and user manuals.
 
 Scientific Impact
 
-Achieve >80% accuracy in epitope prediction with a threshold of 0.4.
+Achieve >80% accuracy in epitope prediction with a threshold of 0.4683.
 Design vaccine constructs with >90% global population coverage.
 Enable rapid analysis within 24-48 hours for typical proteins.
 Create an adaptable framework for other viral proteins and pathogens.
